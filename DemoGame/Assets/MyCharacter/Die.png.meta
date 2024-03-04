@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f1b63bc54be63a2469754769f196d9fb
+guid: c2509bc57fbc720409432f2573eed83c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,148 +110,211 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle_Full_sequence_0
+      name: Die_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 563
-        height: 387
+        width: 515
+        height: 441
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 451408260b4b8674a804f7c548b4d3dc
-      internalID: -1582375534
+      spriteID: 307d099e2ece55e47be0b3e435cbd3ca
+      internalID: -1708737939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_1
+      name: Die_1
       rect:
         serializedVersion: 2
-        x: 563
+        x: 552
         y: 0
-        width: 563
-        height: 387
+        width: 762
+        height: 441
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f161c2a59cda9734583669c2061f6104
-      internalID: 755641675
+      spriteID: 61b0993e5f216cf49b99a57f688abfb5
+      internalID: -1342126760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_2
+      name: Die_2
       rect:
         serializedVersion: 2
-        x: 1126
+        x: 1314
         y: 0
-        width: 563
-        height: 387
+        width: 850
+        height: 441
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d190893a728a38c4683c933e61dfe84d
-      internalID: -1472781610
+      spriteID: 058f93150c3b89645adb5738499ea955
+      internalID: 776158117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_3
+      name: Die_3
       rect:
         serializedVersion: 2
-        x: 1689
+        x: 2164
         y: 0
-        width: 563
-        height: 387
+        width: 740
+        height: 441
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fff9f8bcac3f0b84fa44ddb52e4cb32e
-      internalID: -1499349728
+      spriteID: d1d23be97ba2a7e4d8725617398736bf
+      internalID: -1114488276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_4
+      name: Die_5
       rect:
         serializedVersion: 2
-        x: 2252
+        x: 3432
         y: 0
-        width: 563
-        height: 387
+        width: 643
+        height: 441
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cae23fd6ddce4a4b962af6eb0383d0a
-      internalID: 1516179154
+      spriteID: b23e0248ee1a70b4a9e17338b221c190
+      internalID: 170787520
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_5
+      name: Die_6
       rect:
         serializedVersion: 2
-        x: 2815
+        x: 4078
         y: 0
-        width: 563
-        height: 387
+        width: 816
+        height: 441
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b80d1f7361b6d104c9f6fd70e4ea8419
-      internalID: -1714138933
+      spriteID: 4895ac70a5cb9a04b903e628f2062ab7
+      internalID: -1149830010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_6
+      name: Die_7
       rect:
         serializedVersion: 2
-        x: 3378
+        x: 4990
         y: 0
-        width: 563
-        height: 387
+        width: 820
+        height: 441
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0565e30e953d56e4b9f126bd6e6da0ec
-      internalID: -178232272
+      spriteID: 30606b8d96ee75b4e902f75c1c9755b5
+      internalID: 749317897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_9
+      rect:
+        serializedVersion: 2
+        x: 5834
+        y: 0
+        width: 816
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd92e3d97906245be93b65f8954e91
+      internalID: -1033282535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_10
+      rect:
+        serializedVersion: 2
+        x: 6712
+        y: 0
+        width: 800
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbc37d1674946e449ad8af76717d6fd
+      internalID: -231904048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_11
+      rect:
+        serializedVersion: 2
+        x: 7544
+        y: 0
+        width: 804
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787f7ac755eeabc4d9a8f2947266a9bc
+      internalID: -868174456
       vertices: []
       indices: 
       edges: []
@@ -267,13 +330,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Idle_Full_sequence_0: -1582375534
-      Idle_Full_sequence_1: 755641675
-      Idle_Full_sequence_2: -1472781610
-      Idle_Full_sequence_3: -1499349728
-      Idle_Full_sequence_4: 1516179154
-      Idle_Full_sequence_5: -1714138933
-      Idle_Full_sequence_6: -178232272
+      Die_0: -1708737939
+      Die_1: -1342126760
+      Die_10: -231904048
+      Die_11: -868174456
+      Die_2: 776158117
+      Die_3: -1114488276
+      Die_4: 1419707624
+      Die_5: 170787520
+      Die_6: -1149830010
+      Die_7: 749317897
+      Die_8: 1105044261
+      Die_9: -1033282535
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f1b63bc54be63a2469754769f196d9fb
+guid: 303b4be4f9479504eb117d77dc06c72f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle_Full_sequence_0
+      name: SuperJump_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 563
-        height: 387
+        width: 517
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 451408260b4b8674a804f7c548b4d3dc
-      internalID: -1582375534
+      spriteID: 1d01721435be370479186bf211dc2957
+      internalID: 2012558716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_1
+      name: SuperJump_1
       rect:
         serializedVersion: 2
-        x: 563
+        x: 517
         y: 0
-        width: 563
-        height: 387
+        width: 517
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f161c2a59cda9734583669c2061f6104
-      internalID: 755641675
+      spriteID: cd8d6588350da2442b1fe06d4e13a978
+      internalID: -533663447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_2
+      name: SuperJump_2
       rect:
         serializedVersion: 2
-        x: 1126
+        x: 1034
         y: 0
-        width: 563
-        height: 387
+        width: 599
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d190893a728a38c4683c933e61dfe84d
-      internalID: -1472781610
+      spriteID: 4ee3289f435739141ac2be2636c58363
+      internalID: -933100946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_3
+      name: SuperJump_3
       rect:
         serializedVersion: 2
-        x: 1689
+        x: 1638
         y: 0
-        width: 563
-        height: 387
+        width: 664
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fff9f8bcac3f0b84fa44ddb52e4cb32e
-      internalID: -1499349728
+      spriteID: ca4c7fc91d4fa3c4fba82152ba0fb158
+      internalID: 396769173
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_4
+      name: SuperJump_4
       rect:
         serializedVersion: 2
-        x: 2252
+        x: 2297
         y: 0
-        width: 563
-        height: 387
+        width: 413
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cae23fd6ddce4a4b962af6eb0383d0a
-      internalID: 1516179154
+      spriteID: 79218b65d2aac0f4fa6759592ff14e9b
+      internalID: -235258337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_5
+      name: SuperJump_5
       rect:
         serializedVersion: 2
-        x: 2815
+        x: 2719
         y: 0
-        width: 563
-        height: 387
+        width: 665
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b80d1f7361b6d104c9f6fd70e4ea8419
-      internalID: -1714138933
+      spriteID: 42b37ec60b296c145a2a84cd402bca60
+      internalID: -1835906695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_6
+      name: SuperJump_6
       rect:
         serializedVersion: 2
-        x: 3378
+        x: 3379
         y: 0
-        width: 563
-        height: 387
+        width: 698
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,8 +250,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0565e30e953d56e4b9f126bd6e6da0ec
-      internalID: -178232272
+      spriteID: 5e273043606ba4746a744b83326bc3dc
+      internalID: 699479194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperJump_7
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 0
+        width: 514
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b566b42a645864f89b0d6a3dc9514b
+      internalID: 693515218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperJump_9
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 0
+        width: 450
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d492958bd223b241883b56c7e1be16b
+      internalID: 1072116698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperJump_10
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 0
+        width: 466
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02de45df1061f4c4a8eb5bed15418e07
+      internalID: -35430614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperJump_11
+      rect:
+        serializedVersion: 2
+        x: 5561
+        y: 0
+        width: 475
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deafc7587d6530b40a0aa79648383dab
+      internalID: -1422218838
       vertices: []
       indices: 
       edges: []
@@ -267,13 +351,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Idle_Full_sequence_0: -1582375534
-      Idle_Full_sequence_1: 755641675
-      Idle_Full_sequence_2: -1472781610
-      Idle_Full_sequence_3: -1499349728
-      Idle_Full_sequence_4: 1516179154
-      Idle_Full_sequence_5: -1714138933
-      Idle_Full_sequence_6: -178232272
+      SuperJump_0: 2012558716
+      SuperJump_1: -533663447
+      SuperJump_10: -35430614
+      SuperJump_11: -1422218838
+      SuperJump_2: -933100946
+      SuperJump_3: 396769173
+      SuperJump_4: -235258337
+      SuperJump_5: -1835906695
+      SuperJump_6: 699479194
+      SuperJump_7: 693515218
+      SuperJump_8: -1325618338
+      SuperJump_9: 1072116698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

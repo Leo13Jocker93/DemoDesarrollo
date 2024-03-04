@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f1b63bc54be63a2469754769f196d9fb
+guid: 77ce30bc5660c80488169ccce34b0e9e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle_Full_sequence_0
+      name: SuperKick_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 563
-        height: 387
+        width: 591
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 451408260b4b8674a804f7c548b4d3dc
-      internalID: -1582375534
+      spriteID: 400fd16399dc9c6499f3b43c78ee51fc
+      internalID: 344442903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_1
+      name: SuperKick_1
       rect:
         serializedVersion: 2
-        x: 563
-        y: 0
-        width: 563
-        height: 387
+        x: 591
+        y: 20
+        width: 465
+        height: 421
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f161c2a59cda9734583669c2061f6104
-      internalID: 755641675
+      spriteID: 90737a995427c5342a1cc870696d39aa
+      internalID: -1003454276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_2
+      name: SuperKick_2
       rect:
         serializedVersion: 2
-        x: 1126
+        x: 1057
         y: 0
-        width: 563
-        height: 387
+        width: 622
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d190893a728a38c4683c933e61dfe84d
-      internalID: -1472781610
+      spriteID: f617c0709382e9c47b5467177d2ae051
+      internalID: 1724084726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_3
+      name: SuperKick_3
       rect:
         serializedVersion: 2
-        x: 1689
+        x: 1704
         y: 0
-        width: 563
-        height: 387
+        width: 879
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fff9f8bcac3f0b84fa44ddb52e4cb32e
-      internalID: -1499349728
+      spriteID: b43a2283e65115d4984eb680b8ad6f7f
+      internalID: 1179049439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_4
+      name: SuperKick_4
       rect:
         serializedVersion: 2
-        x: 2252
+        x: 2632
         y: 0
-        width: 563
-        height: 387
+        width: 831
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cae23fd6ddce4a4b962af6eb0383d0a
-      internalID: 1516179154
+      spriteID: 00e857d8bd9f8aa4d896d8d71096b4d6
+      internalID: 876390379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_5
+      name: SuperKick_5
       rect:
         serializedVersion: 2
-        x: 2815
+        x: 3527
         y: 0
-        width: 563
-        height: 387
+        width: 614
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b80d1f7361b6d104c9f6fd70e4ea8419
-      internalID: -1714138933
+      spriteID: a50e42a79e7860745b8167955e86a98d
+      internalID: 219783527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_Full_sequence_6
+      name: SuperKick_6
       rect:
         serializedVersion: 2
-        x: 3378
+        x: 4213
         y: 0
-        width: 563
-        height: 387
+        width: 426
+        height: 441
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,8 +250,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0565e30e953d56e4b9f126bd6e6da0ec
-      internalID: -178232272
+      spriteID: 96ead2d0729080246a1f3d74fd5efa09
+      internalID: 13863715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperKick_7
+      rect:
+        serializedVersion: 2
+        x: 4770
+        y: 4
+        width: 518
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d540e56775c5f4a88b56bf073c3202
+      internalID: 641715999
       vertices: []
       indices: 
       edges: []
@@ -267,13 +288,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Idle_Full_sequence_0: -1582375534
-      Idle_Full_sequence_1: 755641675
-      Idle_Full_sequence_2: -1472781610
-      Idle_Full_sequence_3: -1499349728
-      Idle_Full_sequence_4: 1516179154
-      Idle_Full_sequence_5: -1714138933
-      Idle_Full_sequence_6: -178232272
+      SuperKick_0: 344442903
+      SuperKick_1: -1003454276
+      SuperKick_2: 1724084726
+      SuperKick_3: 1179049439
+      SuperKick_4: 876390379
+      SuperKick_5: 219783527
+      SuperKick_6: 13863715
+      SuperKick_7: 641715999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
